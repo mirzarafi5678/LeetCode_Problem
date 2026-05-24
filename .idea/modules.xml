@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1_add_two_sum/1_add_two_sum.iml" filepath="$PROJECT_DIR$/1_add_two_sum/1_add_two_sum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2_add_two_number/2_add_two_number.iml" filepath="$PROJECT_DIR$/2_add_two_number/2_add_two_number.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3_Longest Substring Without Repeating Characters/3_Longest Substring Without Repeating Characters.iml" filepath="$PROJECT_DIR$/3_Longest Substring Without Repeating Characters/3_Longest Substring Without Repeating Characters.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4_Marged_Two_sorted_Array/4_Marged_Two_sorted_Array.iml" filepath="$PROJECT_DIR$/4_Marged_Two_sorted_Array/4_Marged_Two_sorted_Array.iml" />
-      <module fileurl="file://$PROJECT_DIR$/8_String_to_Integer_ato/8_String_to_Integer_ato.iml" filepath="$PROJECT_DIR$/8_String_to_Integer_ato/8_String_to_Integer_ato.iml" />
-      <module fileurl="file://$PROJECT_DIR$/9_Plaindrome_number/9_Plaindrome_number.iml" filepath="$PROJECT_DIR$/9_Plaindrome_number/9_Plaindrome_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode_Solve.iml" filepath="$PROJECT_DIR$/.idea/LeetCode_Solve.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Longest_Palidrome_Substring/Longest_Palidrome_Substring.iml" filepath="$PROJECT_DIR$/Longest_Palidrome_Substring/Longest_Palidrome_Substring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
