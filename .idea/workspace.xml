@@ -4,17 +4,51 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment=".">
+    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="Remove Nth Node From End of List">
+      <change afterPath="$PROJECT_DIR$/Remove Nth Node From End of List/Remove Nth Node From End of List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_15_3sum/no_15_3sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zigzag Java verison/zigzag Java verison.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/no_16_3Sum Closest/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/no_16_3Sum Closest/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone map/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/phone map/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="8140a327-9dfa-4fd9-b7df-ff25aabb16f8" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="8140a327-9dfa-4fd9-b7df-ff25aabb16f8" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/LeetCode_Solve" value="3E9pENVI3w9AhmrvwuPIgpXPb9e" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="33" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Python Script" />
       </list>
     </option>
@@ -22,18 +56,84 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mirzarafi5678"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mirzarafi5678&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/mirzarafi5678/LeetCode_Problem.git",
-    "accountId": "4feb1065-04e7-4e48-b1da-28b31648822e"
+    "accountId": "a3255f45-a57f-4a00-9b2e-61ddef988d8e"
   }
 }]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.00176025578991" />
+      <entry key="MS500" value="1.325575942429874" />
+      <entry key="S2" value="3.319848016937709" />
+      <entry key="S5" value="5.358484234520828" />
+      <entry key="S10" value="6.496957855543777" />
+      <entry key="S30" value="7.622352244646116" />
+      <entry key="S60" value="8.715945373654957" />
+      <entry key="M2" value="11.781883238430439" />
+      <entry key="M5" value="19.303216412615754" />
+      <entry key="M10" value="31.24766804813174" />
+      <entry key="M15" value="45.64941740724139" />
+      <entry key="M30" value="91.92380365200522" />
+      <entry key="H1" value="166.45553119585347" />
+      <entry key="H2" value="247.54669815131288" />
+      <entry key="H4" value="311.2411174249478" />
+      <entry key="D1" value="383.02175264595564" />
+      <entry key="W1" value="397.5139418111615" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="7.860771250864687E-241" />
+      <entry key="MS500" value="9.530002875759153E-49" />
+      <entry key="S2" value="9.880371127848398E-13" />
+      <entry key="S5" value="1.5772818408389538E-5" />
+      <entry key="S10" value="0.0039716644304613165" />
+      <entry key="S30" value="0.17752004318190304" />
+      <entry key="S60" value="0.8372915303339391" />
+      <entry key="M2" value="3.1774567463128305" />
+      <entry key="M5" value="9.691882651901853" />
+      <entry key="M10" value="17.73086006780587" />
+      <entry key="M15" value="25.04479605634501" />
+      <entry key="M30" value="44.076433435376195" />
+      <entry key="H1" value="69.7439588169649" />
+      <entry key="H2" value="94.58648667701672" />
+      <entry key="H4" value="112.82056419511221" />
+      <entry key="D1" value="132.46485887901272" />
+      <entry key="W1" value="136.33830410736104" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.018840835504019302" />
+      <entry key="MS500" value="0.5329955625655991" />
+      <entry key="S2" value="2.8328619747442394" />
+      <entry key="S5" value="5.10367968536477" />
+      <entry key="S10" value="6.359700917322658" />
+      <entry key="S30" value="7.741663739403393" />
+      <entry key="S60" value="9.505494314956028" />
+      <entry key="M2" value="14.901796328767052" />
+      <entry key="M5" value="28.936904399787785" />
+      <entry key="M10" value="48.9236555297314" />
+      <entry key="M15" value="70.63753437726606" />
+      <entry key="M30" value="135.9397849719528" />
+      <entry key="H1" value="236.14356356106015" />
+      <entry key="H2" value="342.09122791628295" />
+      <entry key="H4" value="424.035187921643" />
+      <entry key="D1" value="515.4811563181491" />
+      <entry key="W1" value="533.851436554125" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1,
   &quot;fromUser&quot;: false
@@ -45,26 +145,61 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Solution.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.13. Roman to Integer.executor": "Run",
+    "Python.4 sum problem.executor": "Run",
+    "Python.Letter Combinations of a Phone Number.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/LeetCode_Solve/Remove Nth Node From End of List/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "configurable.group.editor",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="no_16_3Sum Closest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Spring Boot" factoryName="Spring Boot">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
       </set>
     </attachedChunks>
   </component>
@@ -77,7 +212,19 @@
       <updated>1779600526573</updated>
       <workItem from="1779600527589" duration="168000" />
       <workItem from="1779602398825" duration="694000" />
-      <workItem from="1779623209380" duration="1451000" />
+      <workItem from="1779623209380" duration="3692000" />
+      <workItem from="1779636236720" duration="18000" />
+      <workItem from="1779722084798" duration="937000" />
+      <workItem from="1779767334305" duration="3172000" />
+      <workItem from="1779770776733" duration="3160000" />
+      <workItem from="1779788158780" duration="263000" />
+      <workItem from="1780045765453" duration="65000" />
+      <workItem from="1780146696971" duration="1662000" />
+      <workItem from="1780210307177" duration="2068000" />
+      <workItem from="1780224091696" duration="601000" />
+      <workItem from="1780236564818" duration="2107000" />
+      <workItem from="1780313178139" duration="781000" />
+      <workItem from="1780314487467" duration="3838000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -87,7 +234,79 @@
       <option name="project" value="LOCAL" />
       <updated>1779623383248</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="reverse number problem no 7">
+      <option name="closed" value="true" />
+      <created>1779625749439</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779625749439</updated>
+    </task>
+    <task id="LOCAL-00003" summary="11 container with most water">
+      <option name="closed" value="true" />
+      <created>1779635304327</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779635304327</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gg">
+      <option name="closed" value="true" />
+      <created>1779722253492</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779722253493</updated>
+    </task>
+    <task id="LOCAL-00005" summary="gg">
+      <option name="closed" value="true" />
+      <created>1779770046846</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779770046846</updated>
+    </task>
+    <task id="LOCAL-00006" summary="gg">
+      <option name="closed" value="true" />
+      <created>1779773786864</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779773786865</updated>
+    </task>
+    <task id="LOCAL-00007" summary="zigzag problem">
+      <option name="closed" value="true" />
+      <created>1780147754939</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780147754940</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Letter Combinations of a Phone Number problem">
+      <option name="closed" value="true" />
+      <created>1780239003697</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780239003697</updated>
+    </task>
+    <task id="LOCAL-00009" summary="4 sum problem">
+      <option name="closed" value="true" />
+      <created>1780242478294</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1780242478294</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Remove Nth Node From End of List">
+      <option name="closed" value="true" />
+      <created>1780318525801</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1780318525802</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +314,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="reverse number problem no 7" />
+    <MESSAGE value="11 container with most water" />
+    <MESSAGE value="gg" />
+    <MESSAGE value="zigzag problem" />
+    <MESSAGE value="Letter Combinations of a Phone Number problem" />
+    <MESSAGE value="4 sum problem" />
+    <MESSAGE value="Remove Nth Node From End of List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Nth Node From End of List" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode_Solve$13__Roman_to_Integer.coverage" NAME="13. Roman to Integer Coverage Results" MODIFIED="1780313210040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Solve$4_sum_problem.coverage" NAME="4 sum problem Coverage Results" MODIFIED="1780242452779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Solve$Letter_Combinations_of_a_Phone_Number.coverage" NAME="Letter Combinations of a Phone Number Coverage Results" MODIFIED="1780313222026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
