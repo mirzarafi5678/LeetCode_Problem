@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="21-&gt; merge two sort list using listNode">
-      <change afterPath="$PROJECT_DIR$/no-23 marged K sorted list/no-23 marged K sorted list.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no_2_marge two sort list using listnode/no_2_marge two sort list using listnode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="23-&gt; merge k sort list using listNode and minHeap" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,61 +65,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000001176157" />
-      <entry key="S10" value="1.0000108458960533" />
-      <entry key="S30" value="1.0266930401382304" />
-      <entry key="S60" value="1.422638534084406" />
-      <entry key="M2" value="4.280000036963244" />
-      <entry key="M5" value="21.358970926727775" />
-      <entry key="M10" value="49.77809110748078" />
-      <entry key="M15" value="70.55820291502206" />
-      <entry key="M30" value="112.450593178193" />
-      <entry key="H1" value="182.4105633633883" />
-      <entry key="H2" value="290.49480393357265" />
-      <entry key="H4" value="402.0938833587093" />
-      <entry key="D1" value="556.2036743400267" />
-      <entry key="W1" value="590.9233338423641" />
+      <entry key="MS100" value="1.0000009153679246" />
+      <entry key="MS500" value="1.0765361003904166" />
+      <entry key="S2" value="2.0481609456392205" />
+      <entry key="S5" value="3.2586208948161066" />
+      <entry key="S10" value="4.185206371621357" />
+      <entry key="S30" value="5.250568731711476" />
+      <entry key="S60" value="5.929240518357425" />
+      <entry key="M2" value="8.726055281224678" />
+      <entry key="M5" value="25.395759016543067" />
+      <entry key="M10" value="53.67287955854359" />
+      <entry key="M15" value="74.51614393765855" />
+      <entry key="M30" value="116.6215452812172" />
+      <entry key="H1" value="186.73920120314975" />
+      <entry key="H2" value="294.9608181491752" />
+      <entry key="H4" value="406.7245030647488" />
+      <entry key="D1" value="561.1185417270616" />
+      <entry key="W1" value="595.9104133864739" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.0377981330355307E-185" />
-      <entry key="S2" value="7.260596449766368E-47" />
-      <entry key="S5" value="5.349061275714442E-19" />
-      <entry key="S10" value="1.23935360311592E-9" />
-      <entry key="S30" value="0.00343470780968243" />
-      <entry key="S60" value="0.20399013579825642" />
-      <entry key="M2" value="2.0881645811917586" />
-      <entry key="M5" value="12.035572424243801" />
-      <entry key="M10" value="27.550948681101623" />
-      <entry key="M15" value="38.701502733128386" />
-      <entry key="M30" value="59.33868613784147" />
-      <entry key="H1" value="87.60423556253443" />
-      <entry key="H2" value="125.56351043373107" />
-      <entry key="H4" value="161.9225754167563" />
-      <entry key="D1" value="209.6844317127379" />
-      <entry key="W1" value="220.17281338139338" />
+      <entry key="MS500" value="3.542242506601753E-197" />
+      <entry key="S2" value="9.868784151512718E-50" />
+      <entry key="S5" value="3.8158747695146184E-20" />
+      <entry key="S10" value="3.3101944331246477E-10" />
+      <entry key="S30" value="0.002211952963827071" />
+      <entry key="S60" value="0.1637013315988673" />
+      <entry key="M2" value="1.8706229043235554" />
+      <entry key="M5" value="11.5174241179717" />
+      <entry key="M10" value="26.951370995794917" />
+      <entry key="M15" value="38.13795173696752" />
+      <entry key="M30" value="58.90507241367812" />
+      <entry key="H1" value="87.28356744671767" />
+      <entry key="H2" value="125.33349228677186" />
+      <entry key="H4" value="161.77419551133067" />
+      <entry key="D1" value="209.65239495874044" />
+      <entry key="W1" value="220.1680074627953" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9330329915368074" />
-      <entry key="MS500" value="0.9862327044933592" />
-      <entry key="S2" value="0.9965402628278678" />
-      <entry key="S5" value="0.998614666216272" />
-      <entry key="S10" value="0.9993178300553233" />
-      <entry key="S30" value="1.0296323817468966" />
-      <entry key="S60" value="1.6203065354049626" />
-      <entry key="M2" value="6.333773983881658" />
-      <entry key="M5" value="33.30373737918345" />
-      <entry key="M10" value="77.22513526245031" />
-      <entry key="M15" value="109.16379968972933" />
-      <entry key="M30" value="171.7166763289715" />
-      <entry key="H1" value="269.9583200540601" />
-      <entry key="H2" value="416.0136101639217" />
-      <entry key="H4" value="563.985300997865" />
-      <entry key="D1" value="765.8808418945828" />
-      <entry key="W1" value="811.0950421362872" />
+      <entry key="MS100" value="0.946058518739863" />
+      <entry key="MS500" value="1.0647678978481168" />
+      <entry key="S2" value="2.0428510156276336" />
+      <entry key="S5" value="3.255292124405013" />
+      <entry key="S10" value="4.183051375859592" />
+      <entry key="S30" value="5.251696367753172" />
+      <entry key="S60" value="6.087469666640831" />
+      <entry key="M2" value="10.565666742447219" />
+      <entry key="M5" value="36.82620401687343" />
+      <entry key="M10" value="80.522565839644" />
+      <entry key="M15" value="112.55955860154748" />
+      <entry key="M30" value="175.45453140641618" />
+      <entry key="H1" value="273.9664895877511" />
+      <entry key="H2" value="420.2496846611087" />
+      <entry key="H4" value="568.4675676177636" />
+      <entry key="D1" value="770.7636733486759" />
+      <entry key="W1" value="816.077315744662" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -223,7 +218,7 @@
       <workItem from="1780314487467" duration="4897000" />
       <workItem from="1780325349901" duration="52000" />
       <workItem from="1780369438375" duration="1129000" />
-      <workItem from="1780484369750" duration="1298000" />
+      <workItem from="1780484369750" duration="1963000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -321,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780370555528</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="23-&gt; merge k sort list using listNode and minHeap">
+      <option name="closed" value="true" />
+      <created>1780485705386</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1780485705386</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,7 +341,8 @@
     <MESSAGE value="Remove Nth Node From End of List" />
     <MESSAGE value="20-&gt; valid parentheses" />
     <MESSAGE value="21-&gt; merge two sort list using listNode" />
-    <option name="LAST_COMMIT_MESSAGE" value="21-&gt; merge two sort list using listNode" />
+    <MESSAGE value="23-&gt; merge k sort list using listNode and minHeap" />
+    <option name="LAST_COMMIT_MESSAGE" value="23-&gt; merge k sort list using listNode and minHeap" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode_Solve$13__Roman_to_Integer.coverage" NAME="13. Roman to Integer Coverage Results" MODIFIED="1780313210040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
