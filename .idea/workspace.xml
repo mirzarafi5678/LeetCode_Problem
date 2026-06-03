@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="Remove Nth Node From End of List">
-      <change afterPath="$PROJECT_DIR$/Remove Nth Node From End of List/Remove Nth Node From End of List.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no_15_3sum/no_15_3sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zigzag Java verison/zigzag Java verison.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="21-&gt; merge two sort list using listNode">
+      <change afterPath="$PROJECT_DIR$/no-23 marged K sorted list/no-23 marged K sorted list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no_2_marge two sort list using listnode/no_2_marge two sort list using listnode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/no_16_3Sum Closest/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/no_16_3Sum Closest/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phone map/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/phone map/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="33" />
+    <option name="cachedIndexableFilesCount" value="41" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,73 +58,73 @@
     &quot;assignee&quot;: &quot;mirzarafi5678&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mirzarafi5678/LeetCode_Problem.git",
-    "accountId": "a3255f45-a57f-4a00-9b2e-61ddef988d8e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mirzarafi5678/LeetCode_Problem.git&quot;,
+    &quot;accountId&quot;: &quot;a3255f45-a57f-4a00-9b2e-61ddef988d8e&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.00176025578991" />
-      <entry key="MS500" value="1.325575942429874" />
-      <entry key="S2" value="3.319848016937709" />
-      <entry key="S5" value="5.358484234520828" />
-      <entry key="S10" value="6.496957855543777" />
-      <entry key="S30" value="7.622352244646116" />
-      <entry key="S60" value="8.715945373654957" />
-      <entry key="M2" value="11.781883238430439" />
-      <entry key="M5" value="19.303216412615754" />
-      <entry key="M10" value="31.24766804813174" />
-      <entry key="M15" value="45.64941740724139" />
-      <entry key="M30" value="91.92380365200522" />
-      <entry key="H1" value="166.45553119585347" />
-      <entry key="H2" value="247.54669815131288" />
-      <entry key="H4" value="311.2411174249478" />
-      <entry key="D1" value="383.02175264595564" />
-      <entry key="W1" value="397.5139418111615" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000001176157" />
+      <entry key="S10" value="1.0000108458960533" />
+      <entry key="S30" value="1.0266930401382304" />
+      <entry key="S60" value="1.422638534084406" />
+      <entry key="M2" value="4.280000036963244" />
+      <entry key="M5" value="21.358970926727775" />
+      <entry key="M10" value="49.77809110748078" />
+      <entry key="M15" value="70.55820291502206" />
+      <entry key="M30" value="112.450593178193" />
+      <entry key="H1" value="182.4105633633883" />
+      <entry key="H2" value="290.49480393357265" />
+      <entry key="H4" value="402.0938833587093" />
+      <entry key="D1" value="556.2036743400267" />
+      <entry key="W1" value="590.9233338423641" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="7.860771250864687E-241" />
-      <entry key="MS500" value="9.530002875759153E-49" />
-      <entry key="S2" value="9.880371127848398E-13" />
-      <entry key="S5" value="1.5772818408389538E-5" />
-      <entry key="S10" value="0.0039716644304613165" />
-      <entry key="S30" value="0.17752004318190304" />
-      <entry key="S60" value="0.8372915303339391" />
-      <entry key="M2" value="3.1774567463128305" />
-      <entry key="M5" value="9.691882651901853" />
-      <entry key="M10" value="17.73086006780587" />
-      <entry key="M15" value="25.04479605634501" />
-      <entry key="M30" value="44.076433435376195" />
-      <entry key="H1" value="69.7439588169649" />
-      <entry key="H2" value="94.58648667701672" />
-      <entry key="H4" value="112.82056419511221" />
-      <entry key="D1" value="132.46485887901272" />
-      <entry key="W1" value="136.33830410736104" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.0377981330355307E-185" />
+      <entry key="S2" value="7.260596449766368E-47" />
+      <entry key="S5" value="5.349061275714442E-19" />
+      <entry key="S10" value="1.23935360311592E-9" />
+      <entry key="S30" value="0.00343470780968243" />
+      <entry key="S60" value="0.20399013579825642" />
+      <entry key="M2" value="2.0881645811917586" />
+      <entry key="M5" value="12.035572424243801" />
+      <entry key="M10" value="27.550948681101623" />
+      <entry key="M15" value="38.701502733128386" />
+      <entry key="M30" value="59.33868613784147" />
+      <entry key="H1" value="87.60423556253443" />
+      <entry key="H2" value="125.56351043373107" />
+      <entry key="H4" value="161.9225754167563" />
+      <entry key="D1" value="209.6844317127379" />
+      <entry key="W1" value="220.17281338139338" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.018840835504019302" />
-      <entry key="MS500" value="0.5329955625655991" />
-      <entry key="S2" value="2.8328619747442394" />
-      <entry key="S5" value="5.10367968536477" />
-      <entry key="S10" value="6.359700917322658" />
-      <entry key="S30" value="7.741663739403393" />
-      <entry key="S60" value="9.505494314956028" />
-      <entry key="M2" value="14.901796328767052" />
-      <entry key="M5" value="28.936904399787785" />
-      <entry key="M10" value="48.9236555297314" />
-      <entry key="M15" value="70.63753437726606" />
-      <entry key="M30" value="135.9397849719528" />
-      <entry key="H1" value="236.14356356106015" />
-      <entry key="H2" value="342.09122791628295" />
-      <entry key="H4" value="424.035187921643" />
-      <entry key="D1" value="515.4811563181491" />
-      <entry key="W1" value="533.851436554125" />
+      <entry key="MS100" value="0.9330329915368074" />
+      <entry key="MS500" value="0.9862327044933592" />
+      <entry key="S2" value="0.9965402628278678" />
+      <entry key="S5" value="0.998614666216272" />
+      <entry key="S10" value="0.9993178300553233" />
+      <entry key="S30" value="1.0296323817468966" />
+      <entry key="S60" value="1.6203065354049626" />
+      <entry key="M2" value="6.333773983881658" />
+      <entry key="M5" value="33.30373737918345" />
+      <entry key="M10" value="77.22513526245031" />
+      <entry key="M15" value="109.16379968972933" />
+      <entry key="M30" value="171.7166763289715" />
+      <entry key="H1" value="269.9583200540601" />
+      <entry key="H2" value="416.0136101639217" />
+      <entry key="H4" value="563.985300997865" />
+      <entry key="D1" value="765.8808418945828" />
+      <entry key="W1" value="811.0950421362872" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -167,7 +163,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/LeetCode_Solve/Remove Nth Node From End of List/src/Main.java",
+    "onboarding.tips.debug.path": "C:/LeetCode_Solve/no-23 marged K sorted list/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -184,7 +180,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Spring Boot" factoryName="Spring Boot">
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -224,7 +220,10 @@
       <workItem from="1780224091696" duration="601000" />
       <workItem from="1780236564818" duration="2107000" />
       <workItem from="1780313178139" duration="781000" />
-      <workItem from="1780314487467" duration="3838000" />
+      <workItem from="1780314487467" duration="4897000" />
+      <workItem from="1780325349901" duration="52000" />
+      <workItem from="1780369438375" duration="1129000" />
+      <workItem from="1780484369750" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -306,7 +305,23 @@
       <option name="project" value="LOCAL" />
       <updated>1780318525802</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="20-&gt; valid parentheses">
+      <option name="closed" value="true" />
+      <created>1780323363559</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1780323363559</updated>
+    </task>
+    <task id="LOCAL-00012" summary="21-&gt; merge two sort list using listNode">
+      <option name="closed" value="true" />
+      <created>1780370555528</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1780370555528</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +336,9 @@
     <MESSAGE value="Letter Combinations of a Phone Number problem" />
     <MESSAGE value="4 sum problem" />
     <MESSAGE value="Remove Nth Node From End of List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove Nth Node From End of List" />
+    <MESSAGE value="20-&gt; valid parentheses" />
+    <MESSAGE value="21-&gt; merge two sort list using listNode" />
+    <option name="LAST_COMMIT_MESSAGE" value="21-&gt; merge two sort list using listNode" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode_Solve$13__Roman_to_Integer.coverage" NAME="13. Roman to Integer Coverage Results" MODIFIED="1780313210040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
