@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/25. Reverse Nodes in k-Group/25. Reverse Nodes in k-Group.iml" filepath="$PROJECT_DIR$/25. Reverse Nodes in k-Group/25. Reverse Nodes in k-Group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.iml" filepath="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode_Solve.iml" filepath="$PROJECT_DIR$/.idea/LeetCode_Solve.iml" />
       <module fileurl="file://$PROJECT_DIR$/Remove Nth Node From End of List/Remove Nth Node From End of List.iml" filepath="$PROJECT_DIR$/Remove Nth Node From End of List/Remove Nth Node From End of List.iml" />
       <module fileurl="file://$PROJECT_DIR$/no-23 marged K sorted list/no-23 marged K sorted list.iml" filepath="$PROJECT_DIR$/no-23 marged K sorted list/no-23 marged K sorted list.iml" />
