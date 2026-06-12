@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="23-&gt; merge k sort list using listNode and minHeap" />
+    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="23-&gt; merge k sort list using listNode and minHeap">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +38,24 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="41" />
+    <option name="cachedIndexableFilesCount" value="48" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/no_16_3Sum Closest/src/Solution.java">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="EXPLYTSPRINGBOOT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,61 +86,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000009153679246" />
-      <entry key="MS500" value="1.0765361003904166" />
-      <entry key="S2" value="2.0481609456392205" />
-      <entry key="S5" value="3.2586208948161066" />
-      <entry key="S10" value="4.185206371621357" />
-      <entry key="S30" value="5.250568731711476" />
-      <entry key="S60" value="5.929240518357425" />
-      <entry key="M2" value="8.726055281224678" />
-      <entry key="M5" value="25.395759016543067" />
-      <entry key="M10" value="53.67287955854359" />
-      <entry key="M15" value="74.51614393765855" />
-      <entry key="M30" value="116.6215452812172" />
-      <entry key="H1" value="186.73920120314975" />
-      <entry key="H2" value="294.9608181491752" />
-      <entry key="H4" value="406.7245030647488" />
-      <entry key="D1" value="561.1185417270616" />
-      <entry key="W1" value="595.9104133864739" />
+      <entry key="MS100" value="9.695089808904603E-66" />
+      <entry key="MS500" value="9.97784299318415E-14" />
+      <entry key="S2" value="7.125212106718779E-4" />
+      <entry key="S5" value="0.09283643432186534" />
+      <entry key="S10" value="0.557717783218462" />
+      <entry key="S30" value="2.049361560267484" />
+      <entry key="S60" value="3.3856730208368733" />
+      <entry key="M2" value="6.655983769032106" />
+      <entry key="M5" value="14.302833689523922" />
+      <entry key="M10" value="19.747322978335507" />
+      <entry key="M15" value="22.38589040719745" />
+      <entry key="M30" value="29.94992575995602" />
+      <entry key="H1" value="61.24507446705157" />
+      <entry key="H2" value="163.57930022601397" />
+      <entry key="H4" value="353.36470400718514" />
+      <entry key="D1" value="787.4024374481678" />
+      <entry key="W1" value="916.207023844778" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="3.542242506601753E-197" />
-      <entry key="S2" value="9.868784151512718E-50" />
-      <entry key="S5" value="3.8158747695146184E-20" />
-      <entry key="S10" value="3.3101944331246477E-10" />
-      <entry key="S30" value="0.002211952963827071" />
-      <entry key="S60" value="0.1637013315988673" />
-      <entry key="M2" value="1.8706229043235554" />
-      <entry key="M5" value="11.5174241179717" />
-      <entry key="M10" value="26.951370995794917" />
-      <entry key="M15" value="38.13795173696752" />
-      <entry key="M30" value="58.90507241367812" />
-      <entry key="H1" value="87.28356744671767" />
-      <entry key="H2" value="125.33349228677186" />
-      <entry key="H4" value="161.77419551133067" />
-      <entry key="D1" value="209.65239495874044" />
-      <entry key="W1" value="220.1680074627953" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000671880694023" />
+      <entry key="S5" value="1.0271420952752783" />
+      <entry key="S10" value="1.223762826090059" />
+      <entry key="S30" value="2.180810578699017" />
+      <entry key="S60" value="3.7334404393265332" />
+      <entry key="M2" value="6.841035767164355" />
+      <entry key="M5" value="12.195446582899143" />
+      <entry key="M10" value="15.47547818346179" />
+      <entry key="M15" value="17.069315753868143" />
+      <entry key="M30" value="21.527504577400457" />
+      <entry key="H1" value="35.45530725852334" />
+      <entry key="H2" value="74.84921515661789" />
+      <entry key="H4" value="143.9079606805995" />
+      <entry key="D1" value="295.11166132271825" />
+      <entry key="W1" value="338.9422428253714" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.946058518739863" />
-      <entry key="MS500" value="1.0647678978481168" />
-      <entry key="S2" value="2.0428510156276336" />
-      <entry key="S5" value="3.255292124405013" />
-      <entry key="S10" value="4.183051375859592" />
-      <entry key="S30" value="5.251696367753172" />
-      <entry key="S60" value="6.087469666640831" />
-      <entry key="M2" value="10.565666742447219" />
-      <entry key="M5" value="36.82620401687343" />
-      <entry key="M10" value="80.522565839644" />
-      <entry key="M15" value="112.55955860154748" />
-      <entry key="M30" value="175.45453140641618" />
-      <entry key="H1" value="273.9664895877511" />
-      <entry key="H2" value="420.2496846611087" />
-      <entry key="H4" value="568.4675676177636" />
-      <entry key="D1" value="770.7636733486759" />
-      <entry key="W1" value="816.077315744662" />
+      <entry key="MS100" value="0.00151129393900624" />
+      <entry key="MS500" value="0.27281596926375073" />
+      <entry key="S2" value="0.7232378253958179" />
+      <entry key="S5" value="0.9815467431650751" />
+      <entry key="S10" value="1.6629572483775827" />
+      <entry key="S30" value="4.131080684719091" />
+      <entry key="S60" value="7.035361581496383" />
+      <entry key="M2" value="13.417539219295596" />
+      <entry key="M5" value="26.436144843274594" />
+      <entry key="M10" value="35.181611372470435" />
+      <entry key="M15" value="39.42447154024263" />
+      <entry key="M30" value="51.45743041432497" />
+      <entry key="H1" value="96.68157797287662" />
+      <entry key="H2" value="238.40473959756724" />
+      <entry key="H4" value="497.2470279022608" />
+      <entry key="D1" value="1082.504416201912" />
+      <entry key="W1" value="1255.1476503843066" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -134,39 +155,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.13. Roman to Integer.executor": "Run",
-    "Python.4 sum problem.executor": "Run",
-    "Python.Letter Combinations of a Phone Number.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/LeetCode_Solve/no-23 marged K sorted list/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.editor",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.13. Roman to Integer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4 sum problem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Letter Combinations of a Phone Number.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/LeetCode_Solve/25. Reverse Nodes in k-Group/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
@@ -189,8 +210,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
       </set>
     </attachedChunks>
   </component>
@@ -218,7 +239,11 @@
       <workItem from="1780314487467" duration="4897000" />
       <workItem from="1780325349901" duration="52000" />
       <workItem from="1780369438375" duration="1129000" />
-      <workItem from="1780484369750" duration="2599000" />
+      <workItem from="1780484369750" duration="3279000" />
+      <workItem from="1780731316969" duration="3351000" />
+      <workItem from="1780749563989" duration="4522000" />
+      <workItem from="1781088001118" duration="206000" />
+      <workItem from="1781088426146" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -332,7 +357,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780490936635</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="23-&gt; merge k sort list using listNode and minHeap">
+      <option name="closed" value="true" />
+      <created>1780496028996</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1780496028996</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
