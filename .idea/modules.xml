@@ -6,6 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.iml" filepath="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/27. Remove Element/27. Remove Element.iml" filepath="$PROJECT_DIR$/27. Remove Element/27. Remove Element.iml" />
       <module fileurl="file://$PROJECT_DIR$/28. Find the Index of the First Occurrence in a String/28. Find the Index of the First Occurrence in a String.iml" filepath="$PROJECT_DIR$/28. Find the Index of the First Occurrence in a String/28. Find the Index of the First Occurrence in a String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29. Divide Two Integers/29. Divide Two Integers.iml" filepath="$PROJECT_DIR$/29. Divide Two Integers/29. Divide Two Integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31 next permutation/31 next permutation.iml" filepath="$PROJECT_DIR$/31 next permutation/31 next permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33. Search in Rotated Sorted Array/33. Search in Rotated Sorted Array.iml" filepath="$PROJECT_DIR$/33. Search in Rotated Sorted Array/33. Search in Rotated Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array/34. Find First and Last Position of Element in Sorted Array.iml" filepath="$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array/34. Find First and Last Position of Element in Sorted Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode_Solve.iml" filepath="$PROJECT_DIR$/.idea/LeetCode_Solve.iml" />
       <module fileurl="file://$PROJECT_DIR$/Remove Nth Node From End of List/Remove Nth Node From End of List.iml" filepath="$PROJECT_DIR$/Remove Nth Node From End of List/Remove Nth Node From End of List.iml" />
       <module fileurl="file://$PROJECT_DIR$/no-23 marged K sorted list/no-23 marged K sorted list.iml" filepath="$PROJECT_DIR$/no-23 marged K sorted list/no-23 marged K sorted list.iml" />
@@ -13,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/no_16_3Sum Closest/no_16_3Sum Closest.iml" filepath="$PROJECT_DIR$/no_16_3Sum Closest/no_16_3Sum Closest.iml" />
       <module fileurl="file://$PROJECT_DIR$/no_2_marge two sort list using listnode/no_2_marge two sort list using listnode.iml" filepath="$PROJECT_DIR$/no_2_marge two sort list using listnode/no_2_marge two sort list using listnode.iml" />
       <module fileurl="file://$PROJECT_DIR$/phone map/phone map.iml" filepath="$PROJECT_DIR$/phone map/phone map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valid Soduko/valid Soduko.iml" filepath="$PROJECT_DIR$/valid Soduko/valid Soduko.iml" />
       <module fileurl="file://$PROJECT_DIR$/zigzag Java verison/zigzag Java verison.iml" filepath="$PROJECT_DIR$/zigzag Java verison/zigzag Java verison.iml" />
     </modules>
   </component>
