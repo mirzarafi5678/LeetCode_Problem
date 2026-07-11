@@ -7,12 +7,9 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="problem no 28">
-      <change afterPath="$PROJECT_DIR$/29. Divide Two Integers/29. Divide Two Integers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31 next permutation/31 next permutation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33. Search in Rotated Sorted Array/33. Search in Rotated Sorted Array.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="problem no 29,31,33,34">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/valid Soduko/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/valid Soduko/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="65" />
+    <option name="cachedIndexableFilesCount" value="68" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/no_16_3Sum Closest/src/Solution.java">
@@ -91,61 +88,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000155964" />
-      <entry key="S2" value="1.0019921231587312" />
-      <entry key="S5" value="1.0921990306112113" />
-      <entry key="S10" value="1.4520338432508806" />
-      <entry key="S30" value="3.2919449466076833" />
-      <entry key="S60" value="4.901361218287899" />
-      <entry key="M2" value="6.229760786358096" />
-      <entry key="M5" value="7.99818086283467" />
-      <entry key="M10" value="11.662782603639647" />
-      <entry key="M15" value="16.27257567618858" />
-      <entry key="M30" value="29.803899458832568" />
-      <entry key="H1" value="53.102574876440315" />
-      <entry key="H2" value="99.01699948290641" />
-      <entry key="H4" value="192.40992540923713" />
-      <entry key="D1" value="880.9420478626523" />
-      <entry key="W1" value="1354.6080959876685" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.005612470468559E-116" />
+      <entry key="S2" value="1.3166891171939285E-29" />
+      <entry key="S5" value="2.8043486843367655E-12" />
+      <entry key="S10" value="1.698329485936912E-6" />
+      <entry key="S30" value="0.01780142414753806" />
+      <entry key="S60" value="0.27617488865338086" />
+      <entry key="M2" value="1.6779519786105643" />
+      <entry key="M5" value="7.715302831127439" />
+      <entry key="M10" value="14.70567089612289" />
+      <entry key="M15" value="19.11173316064444" />
+      <entry key="M30" value="30.474226921908258" />
+      <entry key="H1" value="55.66124913178935" />
+      <entry key="H2" value="106.00883316730203" />
+      <entry key="H4" value="203.0614514977783" />
+      <entry key="D1" value="910.6741624074782" />
+      <entry key="W1" value="1427.3708389145181" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0058835574521247E-77" />
-      <entry key="MS500" value="3.9857453290457137E-16" />
-      <entry key="S2" value="1.4267940800803683E-4" />
-      <entry key="S5" value="0.03337769862389565" />
-      <entry key="S10" value="0.23716930896860036" />
-      <entry key="S30" value="0.9606164354206171" />
-      <entry key="S60" value="1.3823971276181166" />
-      <entry key="M2" value="1.7016060008011902" />
-      <entry key="M5" value="2.9568770723661078" />
-      <entry key="M10" value="7.323185325430167" />
-      <entry key="M15" value="13.190793198951123" />
-      <entry key="M30" value="30.11997565551529" />
-      <entry key="H1" value="55.516248507185104" />
-      <entry key="H2" value="96.61140990691113" />
-      <entry key="H4" value="164.05975100412104" />
-      <entry key="D1" value="490.9929010581901" />
-      <entry key="W1" value="685.8930626222585" />
+      <entry key="MS100" value="1.000000000068268" />
+      <entry key="MS500" value="1.009264957026648" />
+      <entry key="S2" value="1.3102493300226592" />
+      <entry key="S5" value="1.626158587609695" />
+      <entry key="S10" value="1.791349115092217" />
+      <entry key="S30" value="2.089389965196421" />
+      <entry key="S60" value="3.5201300270392895" />
+      <entry key="M2" value="7.723310481172902" />
+      <entry key="M5" value="17.859231828164308" />
+      <entry key="M10" value="26.574913686775258" />
+      <entry key="M15" value="31.3657867587138" />
+      <entry key="M30" value="42.409203607145734" />
+      <entry key="H1" value="66.41316893462619" />
+      <entry key="H2" value="112.69652052438335" />
+      <entry key="H4" value="189.29653698116854" />
+      <entry key="D1" value="547.4882783717267" />
+      <entry key="W1" value="767.5739628807437" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.6198538499694932" />
-      <entry key="MS500" value="0.9087781164493353" />
-      <entry key="S2" value="0.9774326954381498" />
-      <entry key="S5" value="1.0890839421926952" />
-      <entry key="S10" value="1.6160824798678788" />
-      <entry key="S30" value="4.167604592254211" />
-      <entry key="S60" value="6.2226344593307275" />
-      <entry key="M2" value="7.893742435170482" />
-      <entry key="M5" value="10.930897878373505" />
-      <entry key="M10" value="18.95914480624944" />
-      <entry key="M15" value="29.433225366483537" />
-      <entry key="M30" value="59.89207265091093" />
-      <entry key="H1" value="108.59126959539152" />
-      <entry key="H2" value="195.60568052661336" />
-      <entry key="H4" value="356.4504206442905" />
-      <entry key="D1" value="1371.9231588120488" />
-      <entry key="W1" value="2040.4986417180176" />
+      <entry key="MS100" value="0.008728805766192026" />
+      <entry key="MS500" value="0.38865722053183654" />
+      <entry key="S2" value="0.976191957655488" />
+      <entry key="S5" value="1.4211739899135465" />
+      <entry key="S10" value="1.6690313210922432" />
+      <entry key="S30" value="2.057474318080121" />
+      <entry key="S60" value="3.7553395530500837" />
+      <entry key="M2" value="9.353374919369317" />
+      <entry key="M5" value="25.51995616725951" />
+      <entry key="M10" value="41.235061717404164" />
+      <entry key="M15" value="50.44010493313494" />
+      <entry key="M30" value="72.85632403109761" />
+      <entry key="H1" value="122.05101734106422" />
+      <entry key="H2" value="218.6837969557042" />
+      <entry key="H4" value="392.33854926978023" />
+      <entry key="D1" value="1458.1501951804864" />
+      <entry key="W1" value="2194.942137680629" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -167,6 +164,7 @@
           </model>
         </option>
         <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
       </template>
     </option>
   </component>
@@ -213,6 +211,11 @@
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="no_16_3Sum Closest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -413,7 +416,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781350563394</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="problem no 29,31,33,34">
+      <option name="closed" value="true" />
+      <created>1782989873032</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1782989873032</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +446,8 @@
     <MESSAGE value="problem no 26" />
     <MESSAGE value="problem no 27 and last commit was the problem no 26 not 25." />
     <MESSAGE value="problem no 28" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem no 28" />
+    <MESSAGE value="problem no 29,31,33,34" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem no 29,31,33,34" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode_Solve$13__Roman_to_Integer.coverage" NAME="13. Roman to Integer Coverage Results" MODIFIED="1780313210040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
