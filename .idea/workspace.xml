@@ -7,7 +7,8 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="problem no 29,31,33,34">
+    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="problem no 36">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/valid Soduko/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/valid Soduko/src/Main.java" afterDir="false" />
     </list>
@@ -40,7 +41,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="68" />
+    <option name="cachedIndexableFilesCount" value="72" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/no_16_3Sum Closest/src/Solution.java">
@@ -89,60 +90,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="3.005612470468559E-116" />
-      <entry key="S2" value="1.3166891171939285E-29" />
-      <entry key="S5" value="2.8043486843367655E-12" />
-      <entry key="S10" value="1.698329485936912E-6" />
-      <entry key="S30" value="0.01780142414753806" />
-      <entry key="S60" value="0.27617488865338086" />
-      <entry key="M2" value="1.6779519786105643" />
-      <entry key="M5" value="7.715302831127439" />
-      <entry key="M10" value="14.70567089612289" />
-      <entry key="M15" value="19.11173316064444" />
-      <entry key="M30" value="30.474226921908258" />
-      <entry key="H1" value="55.66124913178935" />
-      <entry key="H2" value="106.00883316730203" />
-      <entry key="H4" value="203.0614514977783" />
-      <entry key="D1" value="910.6741624074782" />
-      <entry key="W1" value="1427.3708389145181" />
+      <entry key="MS500" value="2.0139538316118048E-250" />
+      <entry key="S2" value="3.94388865401821E-63" />
+      <entry key="S5" value="1.4209710901529788E-25" />
+      <entry key="S10" value="5.63500973360741E-13" />
+      <entry key="S30" value="1.961172407807836E-4" />
+      <entry key="S60" value="0.03926902045184158" />
+      <entry key="M2" value="0.6672050774465736" />
+      <entry key="M5" value="3.907257041245202" />
+      <entry key="M10" value="7.453285547124512" />
+      <entry key="M15" value="10.205892094429135" />
+      <entry key="M30" value="19.638301958263586" />
+      <entry key="H1" value="44.717598288152345" />
+      <entry key="H2" value="103.27283364260279" />
+      <entry key="H4" value="218.31086325815255" />
+      <entry key="D1" value="1007.8423979671966" />
+      <entry key="W1" value="1673.2733912733536" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.000000000068268" />
-      <entry key="MS500" value="1.009264957026648" />
-      <entry key="S2" value="1.3102493300226592" />
-      <entry key="S5" value="1.626158587609695" />
-      <entry key="S10" value="1.791349115092217" />
-      <entry key="S30" value="2.089389965196421" />
-      <entry key="S60" value="3.5201300270392895" />
-      <entry key="M2" value="7.723310481172902" />
-      <entry key="M5" value="17.859231828164308" />
-      <entry key="M10" value="26.574913686775258" />
-      <entry key="M15" value="31.3657867587138" />
-      <entry key="M30" value="42.409203607145734" />
-      <entry key="H1" value="66.41316893462619" />
-      <entry key="H2" value="112.69652052438335" />
-      <entry key="H4" value="189.29653698116854" />
-      <entry key="D1" value="547.4882783717267" />
-      <entry key="W1" value="767.5739628807437" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000001577951689" />
+      <entry key="S2" value="1.041782307488943" />
+      <entry key="S5" value="1.4562666374524604" />
+      <entry key="S10" value="2.130772500294653" />
+      <entry key="S30" value="3.1507096927849565" />
+      <entry key="S60" value="3.5505434400288816" />
+      <entry key="M2" value="3.974398959958147" />
+      <entry key="M5" value="5.134939403649364" />
+      <entry key="M10" value="6.372965988552293" />
+      <entry key="M15" value="7.532083710712343" />
+      <entry key="M30" value="12.244771176714213" />
+      <entry key="H1" value="26.624133667939383" />
+      <entry key="H2" value="65.64787696962813" />
+      <entry key="H4" value="149.79371268817837" />
+      <entry key="D1" value="600.0512265768106" />
+      <entry key="W1" value="910.8038994326548" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.008728805766192026" />
-      <entry key="MS500" value="0.38865722053183654" />
-      <entry key="S2" value="0.976191957655488" />
-      <entry key="S5" value="1.4211739899135465" />
-      <entry key="S10" value="1.6690313210922432" />
-      <entry key="S30" value="2.057474318080121" />
-      <entry key="S60" value="3.7553395530500837" />
-      <entry key="M2" value="9.353374919369317" />
-      <entry key="M5" value="25.51995616725951" />
-      <entry key="M10" value="41.235061717404164" />
-      <entry key="M15" value="50.44010493313494" />
-      <entry key="M30" value="72.85632403109761" />
-      <entry key="H1" value="122.05101734106422" />
-      <entry key="H2" value="218.6837969557042" />
-      <entry key="H4" value="392.33854926978023" />
-      <entry key="D1" value="1458.1501951804864" />
-      <entry key="W1" value="2194.942137680629" />
+      <entry key="MS100" value="4.868565205131498E-7" />
+      <entry key="MS500" value="0.05463636375534129" />
+      <entry key="S2" value="0.5085327004667176" />
+      <entry key="S5" value="1.1243864267255659" />
+      <entry key="S10" value="1.8964115941166035" />
+      <entry key="S30" value="3.041147709637352" />
+      <entry key="S60" value="3.528034100310545" />
+      <entry key="M2" value="4.601358989864029" />
+      <entry key="M5" value="9.0107971346614" />
+      <entry key="M10" value="13.802682127599516" />
+      <entry key="M15" value="17.718516792158738" />
+      <entry key="M30" value="31.867557227333972" />
+      <entry key="H1" value="71.3264227607788" />
+      <entry key="H2" value="168.90382329449307" />
+      <entry key="H4" value="368.0866409851731" />
+      <entry key="D1" value="1607.8803650146624" />
+      <entry key="W1" value="2584.0742016234262" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -174,8 +175,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main (2).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rfgw.executor&quot;: &quot;Run&quot;,
     &quot;Application.test.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.13. Roman to Integer.executor&quot;: &quot;Run&quot;,
@@ -198,7 +203,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/LeetCode_Solve/valid Soduko/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/LeetCode_Solve/all problems in one file/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -207,7 +212,46 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no_268_missing_number.Main" />
+      <module name="all problems in one file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no_268_missing_number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no_268_missing_number.Main" />
+      <module name="all problems in one file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no_268_missing_number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no_268_missing_number.Main" />
+      <module name="all problems in one file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no_268_missing_number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="no_16_3Sum Closest" />
@@ -222,6 +266,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -424,7 +471,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782989873032</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="problem no 36">
+      <option name="closed" value="true" />
+      <created>1783778112435</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1783778112435</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +502,19 @@
     <MESSAGE value="problem no 27 and last commit was the problem no 26 not 25." />
     <MESSAGE value="problem no 28" />
     <MESSAGE value="problem no 29,31,33,34" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem no 29,31,33,34" />
+    <MESSAGE value="problem no 36" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem no 36" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/all problems in one file/src/no_268_missing_number/Main.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode_Solve$13__Roman_to_Integer.coverage" NAME="13. Roman to Integer Coverage Results" MODIFIED="1780313210040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

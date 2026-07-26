@@ -60,7 +60,7 @@ class  Solution {
                checker.clear();
 
                for (int i = row; i < row +3; i++) {
-                   for (int j = row; j < col+3; j++) {
+                   for (int j = col; j < col+3; j++) {
                        if (board[i][j] !='.'){
                            if (checker.contains(board[i][j])){
                                return false;
