@@ -7,7 +7,11 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="solved" />
+    <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="solved">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/no_37_sudoku_solver/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/no_37_sudoku_solver/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/no_37_sudoku_solver/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/all problems in one file/no_37_sudoku_solver/test.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +41,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="75" />
+    <option name="cachedIndexableFilesCount" value="80" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/no_16_3Sum Closest/src/Solution.java">
@@ -85,61 +89,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.4376029899518918" />
-      <entry key="MS500" value="2.761738749773829" />
-      <entry key="S2" value="4.893754403584455" />
-      <entry key="S5" value="5.978377427782024" />
-      <entry key="S10" value="6.452538775292682" />
-      <entry key="S30" value="7.106733073306042" />
-      <entry key="S60" value="9.478685214605072" />
-      <entry key="M2" value="15.568566049628064" />
-      <entry key="M5" value="26.898169460293214" />
-      <entry key="M10" value="35.54732965733212" />
-      <entry key="M15" value="40.54519229294399" />
-      <entry key="M30" value="52.290029987176894" />
-      <entry key="H1" value="78.16483357831163" />
-      <entry key="H2" value="136.82132432213973" />
-      <entry key="H4" value="251.94641709515804" />
-      <entry key="D1" value="1042.666618994193" />
-      <entry key="W1" value="1710.524589019453" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000008039292651" />
+      <entry key="S5" value="1.009164043359069" />
+      <entry key="S10" value="1.0957294579098942" />
+      <entry key="S30" value="1.474539278610123" />
+      <entry key="S60" value="1.9420124326648696" />
+      <entry key="M2" value="3.2926044873694336" />
+      <entry key="M5" value="11.055979376905173" />
+      <entry key="M10" value="24.983440000928006" />
+      <entry key="M15" value="36.12177981499026" />
+      <entry key="M30" value="57.38243770496124" />
+      <entry key="H1" value="76.74152241965784" />
+      <entry key="H2" value="100.48752276645769" />
+      <entry key="H4" value="169.90802620519997" />
+      <entry key="D1" value="965.8032683567707" />
+      <entry key="W1" value="1810.394882174142" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.333453557150464E-232" />
-      <entry key="S2" value="1.9524041944498406E-58" />
-      <entry key="S5" value="1.4858432410317575E-23" />
-      <entry key="S10" value="7.622198677493822E-12" />
-      <entry key="S30" value="5.567664052199386E-4" />
-      <entry key="S60" value="0.05268324761942573" />
-      <entry key="M2" value="0.5351484858599274" />
-      <entry key="M5" value="2.5144773912115386" />
-      <entry key="M10" value="4.719988483915788" />
-      <entry key="M15" value="6.337412136248613" />
-      <entry key="M30" value="11.41465401164485" />
-      <entry key="H1" value="25.644429551439778" />
-      <entry key="H2" value="64.21510864417459" />
-      <entry key="H4" value="148.01592073930988" />
-      <entry key="D1" value="599.1915251257753" />
-      <entry key="W1" value="911.4003351851137" />
+      <entry key="MS100" value="2.7423729021098463E-8" />
+      <entry key="MS500" value="0.030734439813320264" />
+      <entry key="S2" value="0.41870324375421325" />
+      <entry key="S5" value="0.7059314492990547" />
+      <entry key="S10" value="0.8401974746311832" />
+      <entry key="S30" value="0.9518971563523706" />
+      <entry key="S60" value="1.1012460187525313" />
+      <entry key="M2" value="1.6744387239204563" />
+      <entry key="M5" value="5.209824479819558" />
+      <entry key="M10" value="11.727778107025872" />
+      <entry key="M15" value="16.87069974216546" />
+      <entry key="M30" value="26.571266194452342" />
+      <entry key="H1" value="35.47760910420414" />
+      <entry key="H2" value="46.47054233531839" />
+      <entry key="H4" value="84.72213931997817" />
+      <entry key="D1" value="532.5005828185567" />
+      <entry key="W1" value="945.8219315286119" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3944491293425496" />
-      <entry key="MS500" value="2.7185553328515684" />
-      <entry key="S2" value="4.8698732914311185" />
-      <entry key="S5" value="5.9668490836182935" />
-      <entry key="S10" value="6.446382926338669" />
-      <entry key="S30" value="7.104873919752695" />
-      <entry key="S60" value="9.527765867025572" />
-      <entry key="M2" value="16.094889646738885" />
-      <entry key="M5" value="29.395436865376897" />
-      <entry key="M10" value="40.24924138874675" />
-      <entry key="M15" value="46.8659286199553" />
-      <entry key="M30" value="63.69007102869875" />
-      <entry key="H1" value="103.7943949881641" />
-      <entry key="H2" value="201.01982470612003" />
-      <entry key="H4" value="399.94456219390673" />
-      <entry key="D1" value="1641.844896771075" />
-      <entry key="W1" value="2621.9218323601335" />
+      <entry key="MS100" value="0.23981602983131609" />
+      <entry key="MS500" value="0.7516062946506863" />
+      <entry key="S2" value="1.002195156197703" />
+      <entry key="S5" value="1.3198027202195544" />
+      <entry key="S10" value="1.6001024750637265" />
+      <entry key="S30" value="2.150910979190696" />
+      <entry key="S60" value="2.847223272128819" />
+      <entry key="M2" value="4.843108129941646" />
+      <entry key="M5" value="16.19287269621206" />
+      <entry key="M10" value="36.6568433948298" />
+      <entry key="M15" value="52.946551556411855" />
+      <entry key="M30" value="83.92110047836736" />
+      <entry key="H1" value="112.19818072994951" />
+      <entry key="H2" value="146.94459477660556" />
+      <entry key="H4" value="254.6186021371262" />
+      <entry key="D1" value="1498.2918654176876" />
+      <entry key="W1" value="2756.213586029031" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -169,46 +173,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main (2).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rfgw.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.13. Roman to Integer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4 sum problem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Letter Combinations of a Phone Number.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/LeetCode_Solve/all problems in one file/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (1).executor": "Debug",
+    "Application.Main (2).executor": "Debug",
+    "Application.Main.executor": "Debug",
+    "Application.Solution.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.permutation.executor": "Run",
+    "Application.rfgw.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.test_part.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.13. Roman to Integer.executor": "Run",
+    "Python.4 sum problem.executor": "Run",
+    "Python.Letter Combinations of a Phone Number.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/LeetCode_Solve/all problems in one file/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.permutation">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="no_268_missing_number.Main" />
       <module name="all problems in one file" />
@@ -255,13 +261,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_46_permutation.permutation" />
+      <module name="all problems in one file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_46_permutation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Spring Boot" factoryName="Spring Boot">
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.permutation" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />

@@ -1,10 +1,11 @@
-package no_37_sudoku_solver;
-
+package _90_subsets_ii;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class test {
+public class subsets_ii {
+}
+class test {
 
     public static void main(String[] args) {
         int[] nums = {1, 2, 2};
@@ -25,8 +26,7 @@ public class test {
 
 
         for (int i = index; i < nums.length; i++) {
-              if(i > index && nums[i] == nums[i-1]) continue;
-
+            if(i > index && nums[i] == nums[i-1]) continue;
 
             current.add(nums[i]);
 
@@ -34,7 +34,7 @@ public class test {
             backtrack(nums, i + 1, current, result);
 
 
-            current.remove(current.size() - 1);
+            current.removeLast();
         }
     }
 }
