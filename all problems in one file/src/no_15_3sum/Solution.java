@@ -1,3 +1,5 @@
+package no_15_3sum;
+
 import java.util.*;
 
 public class Solution {

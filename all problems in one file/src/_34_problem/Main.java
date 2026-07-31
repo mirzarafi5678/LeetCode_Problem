@@ -1,5 +1,4 @@
-import javax.sound.midi.Soundbank;
-import java.util.ArrayList;
+package _34_problem;
 import java.util.Arrays;
 
 class Solution {

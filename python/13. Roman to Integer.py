@@ -1,4 +1,4 @@
-class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution:
+class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list._34_problem.Solution:
     def romanToInt(self, s: str) -> int:
         roman = {
             "I": 1,

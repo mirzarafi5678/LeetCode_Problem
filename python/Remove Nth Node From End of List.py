@@ -4,7 +4,7 @@ class no_23_marged_K_sorted_list.ListNode:
         self.next = next
 
 
-class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution:
+class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list._34_problem.Solution:
     def removeNthFromEnd(self, head: no_23_marged_K_sorted_list.ListNode, n: int) -> no_23_marged_K_sorted_list.ListNode:
 
         length = 0

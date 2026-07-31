@@ -1,4 +1,4 @@
-class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution:
+class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list._34_problem.Solution:
     def reverse(self, x: int) -> int:
 
         sign = -1 if x < 0 else 1
@@ -14,5 +14,5 @@ class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution:
         return rev
 
 
-ss = 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution()
+ss = 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list._34_problem.Solution()
 print(ss.reverse(-1534236469))

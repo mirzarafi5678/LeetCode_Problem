@@ -1,6 +1,6 @@
 from typing import List
 
-class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution:
+class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list._34_problem.Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
         nums.sort()
         n = len(nums)
@@ -42,6 +42,6 @@ class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution:
                         right -= 1
 
         return result
-ss= 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution()
+ss= 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list._34_problem.Solution()
 
 print(ss.fourSum([1,3,5,6,7,8,9], 15))

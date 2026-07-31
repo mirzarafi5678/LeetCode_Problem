@@ -1,4 +1,4 @@
-class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution :
+class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list._34_problem.Solution :
   def expand (self , s, l, r) ->str :
         while    l >= 0 and r <len(s) and s[l]== s[r]:
           l = l-1
@@ -19,5 +19,5 @@ class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution :
     return longest
 
 
-ss = 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution()
+ss = 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list._34_problem.Solution()
 print(ss.longestPalindrome("aabbaa"))

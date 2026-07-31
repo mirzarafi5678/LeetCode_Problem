@@ -1,7 +1,7 @@
 from typing import List
 
 
-class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution:
+class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list._34_problem.Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         if not digits:
             return []
@@ -27,6 +27,6 @@ class 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution:
         return result
 
 
-ss= 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list.Solution()
+ss= 1_two_sum.src.1_two_sum.valid_soduku.no_23_marged_K_sorted_list._34_problem.Solution()
 ss.letterCombinations("23")
 print(ss.letterCombinations(""))
