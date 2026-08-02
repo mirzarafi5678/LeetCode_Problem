@@ -9,59 +9,77 @@
   <component name="ChangeListManager">
     <list default="true" id="a41626d1-f2ac-4069-9eb0-93052c89de91" name="Changes" comment="python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25. Reverse Nodes in k-Group/25. Reverse Nodes in k-Group.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/25. Reverse Nodes in k-Group/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/25. Reverse Nodes in k-Group/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/26. Remove Duplicates from Sorted Array/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27. Remove Element/27. Remove Element.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27. Remove Element/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/27. Remove Element/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28. Find the Index of the First Occurrence in a String/28. Find the Index of the First Occurrence in a String.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/28. Find the Index of the First Occurrence in a String/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/28. Find the Index of the First Occurrence in a String/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28. Find the Index of the First Occurrence in a String/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/28. Find the Index of the First Occurrence in a String/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/29. Divide Two Integers/29. Divide Two Integers.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/29. Divide Two Integers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/29. Divide Two Integers/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/29. Divide Two Integers/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/29. Divide Two Integers/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_add_two_number/2_add_two_number.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_add_two_number/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/2_add_two_number/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31 next permutation/31 next permutation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/31 next permutation/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/31 next permutation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33. Search in Rotated Sorted Array/33. Search in Rotated Sorted Array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/33. Search in Rotated Sorted Array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/33. Search in Rotated Sorted Array/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array/34. Find First and Last Position of Element in Sorted Array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/_34_problem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/34. Find First and Last Position of Element in Sorted Array/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/_34_problem/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Longest Substring Without Repeating Characters/3_Longest Substring Without Repeating Characters.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Longest Substring Without Repeating Characters/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/3_Longest Substring Without Repeating Characters/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Marged_Two_sorted_Array/4_Marged_Two_sorted_Array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Marged_Two_sorted_Array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/4_Marged_Two_sorted_Array/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_String_to_Integer_ato/8_String_to_Integer_ato.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_String_to_Integer_ato/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/8_String_to_Integer_ato/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_Plaindrome_number/9_Plaindrome_number.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_Plaindrome_number/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/_9_Plaindrome_number/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Remove Nth Node From End of List/Remove Nth Node From End of List.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Remove Nth Node From End of List/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/Remove Nth Node From End of List/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/no_15_3sum/no_15_3sum.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/no_15_3sum/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/no_15_3sum/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/no_16_3Sum Closest/no_16_3Sum Closest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/no_16_3Sum Closest/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/no_16_3Sum Closest/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/no_2_marge two sort list using listnode/no_2_marge two sort list using listnode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/no_2_marge two sort list using listnode/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phone map/phone map.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phone map/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/phone_map/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/12. Integer to Roman.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/12. Integer to Roman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/13. Roman to Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/13. Roman to Integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/14. Longest Common Prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/14. Longest Common Prefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/20 valid parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/20 valid parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/22. Generate Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/22. Generate Parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/24. Swap Nodes in Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/24. Swap Nodes in Pairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/4 sum problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/4 sum problem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Letter Combinations of a Phone Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Letter Combinations of a Phone Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Remove Nth Node From End of List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/Remove Nth Node From End of List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/longest_palindrome_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/longest_palindrome_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/reverse integar.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/reverse integar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/zigzag pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/zigzag pattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zigzag Java verison/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/all problems in one file/src/zigzag Java verison/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zigzag Java verison/zigzag Java verison.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/25. Reverse Nodes in k-Group/25. Reverse Nodes in k-Group.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/25. Reverse Nodes in k-Group/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/26. Remove Duplicates from Sorted Array/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/27. Remove Element/27. Remove Element.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/27. Remove Element/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/28. Find the Index of the First Occurrence in a String/28. Find the Index of the First Occurrence in a String.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/28. Find the Index of the First Occurrence in a String/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/28. Find the Index of the First Occurrence in a String/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/29. Divide Two Integers/29. Divide Two Integers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/29. Divide Two Integers/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/29. Divide Two Integers/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/2_add_two_number/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/31 next permutation/31 next permutation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/31 next permutation/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/34. Find First and Last Position of Element in Sorted Array/34. Find First and Last Position of Element in Sorted Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/3_Longest Substring Without Repeating Characters/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/4_Marged_Two_sorted_Array/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/8_String_to_Integer_ato/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/Remove Nth Node From End of List/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/Remove Nth Node From End of List/Remove Nth Node From End of List.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_1_two_sum/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_33_Search_in_Rotated_Sorted_Array/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_34_problem/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_34_problem/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_39_combination_sum/combination_Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_46_permutation/permutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_46_permutation/permutation2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_46_permutation/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_47_Duplicate_Permutation/duplicate_permutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_90_subsets_ii/subsets_ii.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_9_Plaindrome_number/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_no_442_findAllDuplicatesInArray/FindAllDuplicatInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/_no_448_Find_All_Numbers_Disappeared_in_an_Array/_no_448.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/no_15_3sum/no_15_3sum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/no_16_3Sum Closest/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/no_16_3Sum Closest/no_16_3Sum Closest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/no_2_marge two sort list using listnode/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/no_2_marge two sort list using listnode/no_2_marge two sort list using listnode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/zigzag Java verison/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all problems in one file/src/zigzag Java verison/zigzag Java verison.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/25. Reverse Nodes in k-Group/25. Reverse Nodes in k-Group.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/27. Remove Element/27. Remove Element.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/28. Find the Index of the First Occurrence in a String/28. Find the Index of the First Occurrence in a String.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/29. Divide Two Integers/29. Divide Two Integers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/31 next permutation/31 next permutation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/33. Search in Rotated Sorted Array/33. Search in Rotated Sorted Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/34. Find First and Last Position of Element in Sorted Array/34. Find First and Last Position of Element in Sorted Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/Remove Nth Node From End of List/Remove Nth Node From End of List.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_1_two_sum/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_1_two_sum/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_39_combination_sum/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_39_combination_sum/combination_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_46_permutation/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_46_permutation/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_46_permutation/permutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_46_permutation/permutation2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_46_permutation/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_47_Duplicate_Permutation/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_47_Duplicate_Permutation/duplicate_permutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_90_subsets_ii/subsets_ii.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_90_subsets_ii/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_no_442_findAllDuplicatesInArray/FindAllDuplicatInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_no_442_findAllDuplicatesInArray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_no_448_Find_All_Numbers_Disappeared_in_an_Array/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/_no_448_Find_All_Numbers_Disappeared_in_an_Array/_no_448.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/no_15_3sum/no_15_3sum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/no_16_3Sum Closest/no_16_3Sum Closest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/no_2_marge two sort list using listnode/no_2_marge two sort list using listnode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/all problems in one file/zigzag Java verison/zigzag Java verison.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +110,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="61" />
+    <option name="cachedIndexableFilesCount" value="73" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/no_16_3Sum Closest/src/Solution.java">
@@ -140,61 +158,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000045420792" />
-      <entry key="S2" value="1.0082094427571127" />
-      <entry key="S5" value="1.146570219423521" />
-      <entry key="S10" value="1.4050173536236297" />
-      <entry key="S30" value="3.200347801389868" />
-      <entry key="S60" value="6.6831688455796305" />
-      <entry key="M2" value="11.34692978112487" />
-      <entry key="M5" value="18.905201146696097" />
-      <entry key="M10" value="26.644747088556937" />
-      <entry key="M15" value="33.761242548785965" />
-      <entry key="M30" value="59.87152576002807" />
-      <entry key="H1" value="108.20018643852357" />
-      <entry key="H2" value="168.1323881490359" />
-      <entry key="H4" value="257.9095897047546" />
-      <entry key="D1" value="1069.9737230537517" />
-      <entry key="W1" value="1953.491768290517" />
+      <entry key="MS100" value="0.08420209855410563" />
+      <entry key="MS500" value="0.6096275470381631" />
+      <entry key="S2" value="0.8839535186117318" />
+      <entry key="S5" value="0.9999924329924488" />
+      <entry key="S10" value="1.2822621672253525" />
+      <entry key="S30" value="2.510263497014077" />
+      <entry key="S60" value="3.9675879787033437" />
+      <entry key="M2" value="6.073613837747625" />
+      <entry key="M5" value="10.704141056389172" />
+      <entry key="M10" value="21.53352003896294" />
+      <entry key="M15" value="35.160282927650016" />
+      <entry key="M30" value="74.90146928430573" />
+      <entry key="H1" value="138.39591002235326" />
+      <entry key="H2" value="217.19263316820164" />
+      <entry key="H4" value="321.735827087373" />
+      <entry key="D1" value="1149.2790472190459" />
+      <entry key="W1" value="2050.436886872135" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.439910149821583E-211" />
-      <entry key="MS500" value="7.54179575421163E-43" />
-      <entry key="S2" value="2.946922344127943E-11" />
-      <entry key="S5" value="6.134053397709639E-5" />
-      <entry key="S10" value="0.007835286338878741" />
-      <entry key="S30" value="0.21342886034590006" />
-      <entry key="S60" value="0.5674973573716483" />
-      <entry key="M2" value="1.023817220378238" />
-      <entry key="M5" value="1.740773284049402" />
-      <entry key="M10" value="3.0890572123737" />
-      <entry key="M15" value="5.409518248995865" />
-      <entry key="M30" value="16.70505119039113" />
-      <entry key="H1" value="38.991049764489134" />
-      <entry key="H2" value="66.85134427237635" />
-      <entry key="H4" value="113.00937276778345" />
-      <entry key="D1" value="565.7270196158693" />
-      <entry key="W1" value="1000.5915883879469" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000000018" />
+      <entry key="S2" value="1.000372448800873" />
+      <entry key="S5" value="1.0505532579020598" />
+      <entry key="S10" value="1.314007167001911" />
+      <entry key="S30" value="2.531846956401713" />
+      <entry key="S60" value="3.965816760965872" />
+      <entry key="M2" value="5.781085987351738" />
+      <entry key="M5" value="8.162398011793723" />
+      <entry key="M10" value="10.64389847440218" />
+      <entry key="M15" value="13.038487931105038" />
+      <entry key="M30" value="21.728735754853613" />
+      <entry key="H1" value="41.853515476490294" />
+      <entry key="H2" value="71.96601801650034" />
+      <entry key="H4" value="120.6049417470554" />
+      <entry key="D1" value="575.8176174600476" />
+      <entry key="W1" value="1019.5757023012762" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8010698775896221" />
-      <entry key="MS500" value="0.9566081625963302" />
-      <entry key="S2" value="0.9971633058361026" />
-      <entry key="S5" value="1.1420721412717127" />
-      <entry key="S10" value="1.4097161587925064" />
-      <entry key="S30" value="3.4056048992495636" />
-      <entry key="S60" value="7.240321366421681" />
-      <entry key="M2" value="12.361505817882637" />
-      <entry key="M5" value="20.63966071370718" />
-      <entry key="M10" value="29.72806451103211" />
-      <entry key="M15" value="39.1634550123375" />
-      <entry key="M30" value="76.56316039614389" />
-      <entry key="H1" value="147.1740591514756" />
-      <entry key="H2" value="234.96823733823774" />
-      <entry key="H4" value="370.9054278163111" />
-      <entry key="D1" value="1635.6883601509344" />
-      <entry key="W1" value="2954.0800057277215" />
+      <entry key="MS100" value="0.10360389088393214" />
+      <entry key="MS500" value="1.0260155086328588" />
+      <entry key="S2" value="1.6860241509448097" />
+      <entry key="S5" value="1.9618718261527945" />
+      <entry key="S10" value="2.540171377747298" />
+      <entry key="S30" value="5.00476200979858" />
+      <entry key="S60" value="7.902720769570731" />
+      <entry key="M2" value="11.830291840107467" />
+      <entry key="M5" value="18.846249848394848" />
+      <entry key="M10" value="32.158549649665844" />
+      <entry key="M15" value="48.18096075395316" />
+      <entry key="M30" value="96.61298021381414" />
+      <entry key="H1" value="180.23135115795012" />
+      <entry key="H2" value="289.14227359552456" />
+      <entry key="H4" value="442.326532578119" />
+      <entry key="D1" value="1725.0841349689824" />
+      <entry key="W1" value="3070.009190017086" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -211,7 +229,7 @@
         <option name="modeId" value="Ask" />
         <option name="model">
           <model>
-            <option name="modelType" value="builtin_family" />
+            <option name="modelType" value="builtin_id" />
             <option name="modelValue" value="auto" />
           </model>
         </option>
@@ -224,53 +242,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main (2).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1_two_sum.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.no_23_marged_K_sorted_list.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.permutation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.permutation2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rfgw.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test_part.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.13. Roman to Integer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4 sum problem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Letter Combinations of a Phone Number.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/LeetCode_Solve/no_2_marge two sort list using listnode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/LeetCode_Solve/all problems in one file/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (1).executor": "Debug",
+    "Application.Main (2).executor": "Debug",
+    "Application.Main.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application._1_two_sum.Main.executor": "Run",
+    "Application._2_add_two_number.Main.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.no_23_marged_K_sorted_list.Main.executor": "Run",
+    "Application.permutation.executor": "Run",
+    "Application.permutation2.executor": "Run",
+    "Application.problem_26_remove_duplicates_from_sorted_array.Main.executor": "Run",
+    "Application.problem_3_longest_substring_without_repeating_characters.Main.executor": "Run",
+    "Application.problem_46_permutation.permutation.executor": "Run",
+    "Application.rfgw.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.test_part.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.13. Roman to Integer.executor": "Run",
+    "Python.4 sum problem.executor": "Run",
+    "Python.Letter Combinations of a Phone Number.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/LeetCode_Solve/no_2_marge two sort list using listnode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/LeetCode_Solve/all problems in one file/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\LeetCode_Solve\no_2_marge two sort list using listnode" />
@@ -612,7 +634,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785470370279</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="python">
+      <option name="closed" value="true" />
+      <created>1785473864351</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1785473864351</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
